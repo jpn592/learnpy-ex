@@ -1,0 +1,1 @@
+print "No Cert"print "No root"print "Just Swerve it"
